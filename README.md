@@ -14,7 +14,7 @@
 Explore 15+ React projects including CRUD apps, live APIs, to-do lists, notes apps, image galleries, multi-step forms, and more — all available on GitHub.
 
 📜 **React Certification** (2025)  
-Issued by: [Viditya Software & Corporate Training Institute]
+Issued by: Viditya Software & Corporate Training Institute
 
 🌍 **Open to Remote Opportunities** – Freelance or Full-time  
 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abhishekvadnala) to connect!
