@@ -11,7 +11,10 @@
 - WordPress (Ex), Elementor (Ex)
 
 📂 **Project Portfolio**  
-Explore 15+ React projects including CRUD apps, live APIs, to-do lists, notes apps, image galleries, multi-step forms, and more — all available on GitHub.
+Explore 18 React projects including CRUD apps, live APIs, to-do lists, notes apps, image galleries, multi-step forms, and more — all available on GitHub.
+
+🔗 View all projects here: [React Projects Portfolio Repo](https://github.com/abhishekdevelops/react-projects-portfolio)
+
 
 📜 **React Certification** (2025)  
 Issued by: Viditya Software & Corporate Training Institute
