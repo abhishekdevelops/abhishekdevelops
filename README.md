@@ -1,29 +1,37 @@
-# 👋 Hi, I'm Abhishek
+# 👋 Hi, I'm Abhishek Vadnala
 
-🚀 **React.js Developer** | Building real-world frontend projects with API integration, React Router, Hooks, and clean UI design.
+🚀 **React + WordPress Developer** | Specializing in Headless CMS, REST APIs, and Scalable Frontends.
 
-💼 **Ex-WordPress Developer**, now fully focused on modern frontend development with React.
+🧑‍💻 Passionate about building responsive, high-performance frontend projects using React.js with API integration, React Router, Hooks, and modern UI design.
 
-🎯 **Skills & Tools**  
-- React.js, JavaScript (ES6+), HTML5, CSS3  
-- React Router, Hooks, Fetch API, Axios  
-- Git, GitHub  
-- WordPress (Ex), Elementor (Ex)
-
-📂 **Project Portfolio**  
-Explore 18 React projects including CRUD apps, live APIs, to-do lists, notes apps, image galleries, multi-step forms, and more — all available on GitHub.
-
-🔗 View all projects here: [React Projects Portfolio Repo](https://github.com/abhishekdevelops/react-projects-portfolio)
-
-
-📜 **React Certification** (2025)  
-Issued by: Viditya Software & Corporate Training Institute
-
-🌍 **Open to Remote Opportunities** – Freelance or Full-time  
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/abhishekvadnala) to connect!
-
+💼 Previously worked as a **WordPress Developer** — now combining the power of WordPress as a Headless CMS with React.js frontends.
 
 ---
 
-> Always learning. Always building. Focused on clean code, strong UI, and real-world problem solving.
+## 💡 Skills & Tools
 
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, React Router, Hooks, Axios, Fetch API  
+- **Version Control:** Git, GitHub  
+- **CMS / Platforms:** WordPress (Themes, Plugins, ACF Basics), Elementor  
+- **Deployment:** Vercel  
+- **Current Focus:** Exploring Headless WordPress with React.js for modern frontend development
+
+---
+
+## 📂 Project Portfolio
+
+Explore 18 React projects — including to-do apps, CRUD, API integrations, weather apps, multi-step forms, and more — each built for learning, demonstration, and real-world practice.
+
+🔗 **[View React Projects Portfolio Repo →](https://github.com/abhishekdevelops/react-projects-portfolio)**  
+🌐 **Live Demos Deployed via Vercel** (inside README of each project)
+
+---
+
+## 🌍 Open to Remote Opportunities
+
+💼 Freelance / Full-time – Frontend or Headless CMS Roles  
+📬 Let's connect on [LinkedIn](https://www.linkedin.com/in/abhishekvadnala)
+
+---
+
+> *Always learning. Always building. Focused on clean code, scalable interfaces, and solving real-world problems with modern tools.*
