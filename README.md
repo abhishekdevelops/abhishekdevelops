@@ -10,7 +10,7 @@
 
 ## 💡 Skills & Tools
 
-- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, React Router, Hooks, Axios, Fetch API  
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, React Router, Hooks, Fetch API  
 - **Version Control:** Git, GitHub  
 - **CMS / Platforms:** WordPress (Themes, Plugins, ACF Basics), Elementor  
 - **Deployment:** Vercel  
@@ -20,10 +20,20 @@
 
 ## 📂 Project Portfolio
 
-Explore 18 React projects — including to-do apps, CRUD, API integrations, weather apps, multi-step forms, and more — each built for learning, demonstration, and real-world practice.
+Explore 18+ React projects — including to-do apps, CRUD, API integrations, weather apps, multi-step forms, and more — each built for learning, demonstration, and real-world practice.
 
-🔗 **[View React Projects Portfolio Repo →](https://github.com/abhishekdevelops/react-projects-portfolio)**  
+🔗 **[React Projects Portfolio Repo →](https://github.com/abhishekdevelops/react-projects-portfolio)**  
 🌐 **Live Demos Deployed via Vercel** (inside README of each project)
+
+---
+
+## 🧠 Featured Integration Project
+
+⚛️ **React + WordPress Integration (Headless CMS)**  
+A scalable React frontend integrated with WordPress using REST API + ACF, featuring dynamic Projects & Blogs with routing and real-world API structure.
+
+🔗 **[View Master Repo →](https://github.com/abhishekdevelops/react-wordpress-integration)**  
+🌐 **[Live Demo →](https://react-wordpress-integration.vercel.app/)**
 
 ---
 
