@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abhishek Vadnala
+# Hi, I'm Abhishek Vadnala
 
 🚀 **React + WordPress Developer** | Specializing in Headless CMS, REST APIs, and Scalable Frontends.
 
