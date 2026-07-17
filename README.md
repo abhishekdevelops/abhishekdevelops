@@ -1,47 +1,74 @@
-# Hi, I'm Abhishek Vadnala
+# Hi, I'm Abhishek Vadnala 👋
 
-🚀 **React + WordPress Developer** | Specializing in Headless CMS, REST APIs, and Scalable Frontends.
+Founder of **Build Frame Studio** | Web Developer & UI/UX Designer
 
-🧑‍💻 Passionate about building responsive, high-performance frontend projects using React.js with API integration, React Router, Hooks, and modern UI design.
+I design and build modern, high-performance digital experiences with a focus on thoughtful design, clean development, responsive interfaces, and purposeful motion.
 
-💼 Previously worked as a **WordPress Developer** — now combining the power of WordPress as a Headless CMS with React.js frontends.
-
----
-
-## 💡 Skills & Tools
-
-- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, React Router, Hooks, Fetch API  
-- **Version Control:** Git, GitHub  
-- **CMS / Platforms:** WordPress (Themes, Plugins, ACF Basics), Elementor  
-- **Deployment:** Vercel  
-- **Current Focus:** Exploring Headless WordPress with React.js for modern frontend development
+My background spans frontend development and WordPress, and I'm currently focused on combining **UI/UX design, custom web development, and creative frontend engineering** to build better experiences for businesses and digital products.
 
 ---
 
-## 📂 Project Portfolio
+## 🚀 What I'm Focused On
 
-Explore 18+ React projects — including to-do apps, CRUD, API integrations, weather apps, multi-step forms, and more — each built for learning, demonstration, and real-world practice.
-
-🔗 **[React Projects Portfolio Repo →](https://github.com/abhishekdevelops/react-projects-portfolio)**  
-🌐 **Live Demos Deployed via Vercel** (inside README of each project)
-
----
-
-## 🧠 Featured Integration Project
-
-⚛️ **React + WordPress Integration (Headless CMS)**  
-A scalable React frontend integrated with WordPress using REST API + ACF, featuring dynamic Projects & Blogs with routing and real-world API structure.
-
-🔗 **[View Master Repo →](https://github.com/abhishekdevelops/react-wordpress-integration)**  
-🌐 **[Live Demo →](https://react-wordpress-integration.vercel.app/)**
+- Building custom, responsive, high-performance websites
+- Creating thoughtful UI/UX for modern digital products
+- Developing interactive frontend experiences with JavaScript and GSAP
+- Improving web performance, accessibility, and responsive behaviour
+- Building and growing Build Frame Studio
 
 ---
 
-## 🌍 Open to Remote Opportunities
+## 🛠️ Skills & Tools
 
-💼 Freelance / Full-time – Frontend or Headless CMS Roles  
-📬 Let's connect on [LinkedIn](https://www.linkedin.com/in/abhishekvadnala)
+**Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js  
+**Creative Development:** GSAP, ScrollTrigger, Web Animations  
+**CMS:** WordPress, Custom Themes, Elementor  
+**UI/UX:** Figma, Wireframing, Prototyping, Responsive Design, Design Systems  
+**Backend & APIs:** REST APIs, Netlify Functions  
+**Deployment:** Netlify, Vercel  
+**Version Control:** Git, GitHub  
 
 ---
 
-> *Always learning. Always building. Focused on clean code, scalable interfaces, and solving real-world problems with modern tools.*
+## ⚡ Build Frame Studio
+
+I'm the founder of **Build Frame Studio**, a digital studio focused on designing and developing modern, high-performance websites and digital experiences for startups, growing businesses, and service-based companies.
+
+Our approach brings together thoughtful design, custom development, performance, and purposeful interaction to create digital experiences built for real business needs.
+
+🌐 Website launching soon.
+
+---
+
+## 💻 Selected Work
+
+My work spans custom websites, frontend development, WordPress projects, UI/UX, and interactive web experiences.
+
+I'm currently building and documenting selected client and studio projects. More case studies and project details will be added here as they become available.
+
+---
+
+## 📚 Background
+
+My development journey started with frontend technologies and WordPress, expanding into React, API integrations, custom development, UI/UX design, and creative frontend engineering.
+
+I enjoy working at the intersection of **design and development** — turning ideas and interfaces into responsive, performant, and engaging digital experiences.
+
+---
+
+## 🌱 Currently Exploring
+
+- Advanced GSAP and creative frontend development
+- Motion and interaction design
+- Advanced JavaScript
+- UI/UX and product design
+- Scalable frontend architecture
+
+---
+
+## 🤝 Connect
+
+I'm open to connecting with developers, designers, founders, and people building interesting digital products.
+
+**LinkedIn:** (https://www.linkedin.com/in/abhishekvadnala/)
+**Build Frame Studio:** Website launching soon
