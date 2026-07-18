@@ -70,6 +70,6 @@ I enjoy working at the intersection of **design and development** — turning id
 
 I'm open to connecting with developers, designers, founders, and people building interesting digital products.
 
-**LinkedIn:** https://www.linkedin.com/in/abhishekvadnala/
+**LinkedIn:** [Abhishek Vadnala](https://www.linkedin.com/in/abhishekvadnala/)
 
 **Build Frame Studio:** [buildframestudio.com](https://buildframestudio.com)
